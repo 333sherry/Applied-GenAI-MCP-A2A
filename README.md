@@ -17,9 +17,10 @@ The full system runs end-to-end inside a single notebook.
 
 ```
 Assignment_5_applied_genai.ipynb     ← Main notebook (MCP server + agents + tests)
-database_setup.py                   ← Builds the SQLite DB with schema + triggers
+database_setup.py                    ← Builds the SQLite DB with schema + triggers
 support.db                           ← SQLite database used by MCP server
 README.md                            ← Project documentation
+requirements.txt                     ← Required Python packages
 ```
 
 ---

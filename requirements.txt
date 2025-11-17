@@ -1,0 +1,13 @@
+Python packages:
+flask
+flask-cors
+requests
+pyngrok
+nest_asyncio
+uvicorn
+httpx
+pydantic
+termcolor
+google-genai
+google-adk
+google-colab
